@@ -1,8 +1,25 @@
-# About Me
-Hello there! My name is Randy Sawatzky. I hail from Winnipeg but have been residing in Calgary since 2005.
+# Randy Sawatzky
 
-I have a rich professional background, having served as the VP Operations for a pet supply company for 17 years. Currently, I am employed as a business analyst, database administrator, and inventory control manager for a diversified company. This company has interests in pet stores, veterinary hospitals, and a burgeoning ecommerce business.
+Hi there! I'm Randy Sawatzky, originally from Winnipeg and now based in Calgary since 2005.
 
-My daily work involves extensive use of Java, Python, and SQL Server.
+I've spent 17 years as VP of Operations for a pet supply company, and currently work as a business analyst, database administrator, and inventory control manager for a diverse company involved in pet retail, veterinary hospitals, and a growing ecommerce business.
 
-In February 2023, I embarked on an exciting journey of learning by enrolling in a Full Stack Web Development course at the University of Alberta. I am on track to earn my diploma by late fall 2024, and I’m proud to share that I have maintained a 4.0 GPA throughout this course.
+## What I Do
+
+- Business operations leadership with a focus on custom software solutions
+- Daily work with Python, Java and SQL Server
+- Builder of tools for forecasting, reporting, and team collaboration
+- Passionate about streamlining workflows and solving real-world problems with code
+
+## Recent Learning
+
+I'm recently graduated in the Full Stack Web Development Diploma program at the University of Alberta (graduated Fall 2024), where I've maintained a 4.0 GPA while balancing work and study.
+
+## Tech Stack
+
+Java • Python • SQL Server • Django • React • Next.js • Git • VB.net • MSaccess • VBA
+
+## Fun Facts
+
+When I’m not coding, I’m composing music and playing in Calgary’s folk scene. I also serve on the board of a local music education camp — because creativity doesn’t stop at the keyboard.
+
