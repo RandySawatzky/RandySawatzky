@@ -21,5 +21,5 @@ Java • Python • SQL Server • Django • React • Next.js • Git • VB.n
 
 ## Fun Facts
 
-When I’m not coding, I’m composing music and playing in Calgary’s folk scene. I also serve on the board of a local music education camp — because creativity doesn’t stop at the keyboard.
+When I’m not coding, I’m composing music and playing in Calgary’s folk scene. I also served on the board of a local music education camp, because creativity doesn’t stop at the keyboard.
 
